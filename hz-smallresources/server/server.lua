@@ -1,0 +1,1 @@
+print("hz-smallresources loaded! Made by BruceFX (https://github.com/BruceFX)")
