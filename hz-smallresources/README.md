@@ -23,6 +23,7 @@ ensure hz-smallresources
 - Disable Vehicle tornado
 - Enables Trains
 - Weapon Drop
+- Knockout effect
 
 ## Configuration
 Each feature has a different file name correlative with its function. You can configure each one by its own.
