@@ -1,4 +1,4 @@
-# HZ Smallresources
+# FX Smallresources
 A simple FiveM script to reduce the amount of scripts you have.
 
 ## Installation
