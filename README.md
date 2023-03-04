@@ -25,6 +25,7 @@ ensure hz-smallresources
 - Weapon Drop
 - Knockout effect
 - Carrying ( /carry )
+- Uptime ( Ex: https://i.imgur.com/cq3XEEH.png )
 
 ## Configuration
 Each feature has a different file name correlative with its function. You can configure each one by its own.
