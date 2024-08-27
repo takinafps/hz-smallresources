@@ -1,4 +1,4 @@
-# HZ Smallresources
+# NH Smallresources
 A simple FiveM script to reduce the amount of scripts you have.
 
 ## Installation
@@ -7,7 +7,7 @@ A simple FiveM script to reduce the amount of scripts you have.
 - Add the following code to your server.cfg/resouces.cfg
 
 ```
-ensure hz-smallresources
+ensure NH-smallresources
 ```
 
 ## Features
